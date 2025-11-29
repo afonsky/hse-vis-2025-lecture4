@@ -43,7 +43,7 @@ zoom: 0.9
   </tr>
   <tr>
     <td class="tg-1p0a">25 ноября</td>
-    <td class="g-jdzo">18:10</td>
+    <td class="tg-jdzo">18:10</td>
     <td class="tg-o7ju">Лекция 3: Зрительная система и визуализация данных</td>
   </tr>
   <tr>
